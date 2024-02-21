@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 - 💛 I am from Sacramento, California
 - ❤️ I’m currently working on a personal project
-- 💙 You can reach out to me at victorian114@gmail.com
+- 💙 You can reach out to me at victorian114@gmail.com or my linkedin: https://www.linkedin.com/in/victoria-nguyen-945771239/
 
 ## 🧰 Tools I've learned: 
 <div align="center">
