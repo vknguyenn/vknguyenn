@@ -1,4 +1,4 @@
-# Hey, I am Victoria! 😁
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7298FF&random=false&width=435&lines=Hey%2C+I+am+Victoria!+%F0%9F%98%81;I+am+a+Software+Developer!)](https://git.io/typing-svg)
 
 <!--
 **vknguyenn/vknguyenn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
