@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 💛 I am from Sacramento, California
+- 💛 I am from Sacramento, California and graduated from Sacramento State University, Stingers Up! 🐝
 - ❤️ I’m currently working on my Fumblr project!
 - 💙 You can reach out to me at victorian114@gmail.com or my linkedin: https://www.linkedin.com/in/victoria-nguyen-945771239/
 
